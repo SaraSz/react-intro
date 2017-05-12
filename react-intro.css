@@ -18,13 +18,13 @@ body {
 }
 
 #one:focus, #two:focus {
-  background-color: orange;
-  border: 2px solid #48172D;
+  background-color: #6F2345;
+  border: 2px solid white;
   
 }
 
 #one:hover, #two:hover {
-  background-color: #6F2345;
+  background-color: #C8AE8D;
 }
 
 #first {
