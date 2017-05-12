@@ -18,8 +18,8 @@ body {
 }
 
 #one:focus, #two:focus {
-  background-color: #6F2345;
-  border: 3px solid white;
+  background-color: #C8AE8D;
+  border: 3px solid #6F2345;
   
 }
 
